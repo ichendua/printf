@@ -91,7 +91,7 @@ int print_rot13(va_list l, flags_t *f)
 			}
 		}
 	}
-	
+
 	return (j);
 }
 
